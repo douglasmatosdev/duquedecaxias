@@ -1,0 +1,68 @@
+Body{
+    background: #008ADF url(../images/ceu.jpg);
+    font-family: "Lucida Grande","Lucida Sans Unidcode", Verdana, sans-serif;
+    line-height: 1.6;
+}
+
+.container{
+    margin: 0 auto;
+    width: 960px;
+}
+
+h1 a{
+    color: #fff;
+    text-decoration: none;
+}
+
+h1 a:hover{
+    background-color: #fff;
+    color: #008ADF;
+}
+
+.locals{
+    float: left;
+    width: 660px;
+}
+
+article{
+    background-color: #ffffff;
+    border: 1px solid #cccccc;
+    border-color: #cccccc #999999 #999999 #cccccc;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+article h2{
+    border-bottom: 1px dashed #7e9f19;
+    margin: 0;
+}
+
+article a{
+    color: #2c8800;
+    font-weight: bold;
+}
+
+article img{
+    border: 1px solid #7e9f19;
+    float: left;
+    margin: 10px 10px 0 0;
+    padding: 2px;
+}
+
+.clear{
+    clear: both;
+}
+
+aside{
+    background-color: #fffccc;
+    border: 1px solid #c9bc8f;
+    float: right;
+    padding: 10px;
+    width: 260px;
+}
+
+
+footer{
+    font-size: 12px;
+    text-align: center;
+}
